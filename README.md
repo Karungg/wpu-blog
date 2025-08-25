@@ -8,7 +8,7 @@ Project "WPU Blog" ini adalah sebuah aplikasi web sederhana yang dibangun menggu
 | :---: | :---: |
 | ![Tampilan Halaman Utama](https://github.com/Karungg/wpu-blog/blob/main/public/img/docs/1.png) | ![Tampilan Halaman About](https://github.com/Karungg/wpu-blog/blob/main/public/img/docs/2.png) |
 
-| Halaman Semua Postingan | Halaman Postingan per Kategori |
+| Halaman Semua Postingan | Halaman Detail Postingan |
 | :---: | :---: |
 | ![Tampilan Halaman Semua Postingan](https://github.com/Karungg/wpu-blog/blob/main/public/img/docs/3.png) | ![Tampilan Halaman Detail Postingan](https://github.com/Karungg/wpu-blog/blob/main/public/img/docs/4.png) |
 
